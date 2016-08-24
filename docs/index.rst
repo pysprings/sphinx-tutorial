@@ -6,12 +6,18 @@
 Welcome to Sphinx Tutorial's documentation!
 ===========================================
 
+This tutorial is **AMAZING**, but we really should link to http://example.com
+or another `example`_
+
 Contents:
 
 .. toctree::
    :maxdepth: 2
 
+   requests
 
+
+.. _example: http://example.com
 
 Indices and tables
 ==================

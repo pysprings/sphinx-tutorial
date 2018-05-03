@@ -15,6 +15,7 @@ Contents:
    :maxdepth: 2
 
    requests
+   modules
 
 
 .. _example: http://example.com
